@@ -1,4 +1,9 @@
+
+--- criando o banco de dados do Game of Thrones (got)
+
 CREATE DATABASE got;
+
+--- criando a tabela HOUSE de acordo com os dados já existentes
 
 create table house (
 house_id INT auto_increment NOT NULL primary key,
