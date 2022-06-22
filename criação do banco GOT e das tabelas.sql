@@ -11,6 +11,8 @@ house_name varchar (255),
 region varchar (255)
 );
 
+--- criando a tabela CHARACTERS de acordo com os dados já existentes
+
 create table characters (
 character_id INT auto_increment NOT NULL primary key,
 character_name varchar (255),
@@ -19,6 +21,8 @@ episodes_appeared INT NOT NULL,
 first_appearance varchar (4),
 last_appearance varchar (4)
 );
+
+--- criando a tabela EPISODES de acordo com os dados já existentes
 
 create table episodes (
 episode_id INT auto_increment NOT NULL primary key,
