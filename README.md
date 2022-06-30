@@ -64,10 +64,14 @@ Devido a termos alguns horários disponíveis em comum, e também por conta das 
 
   3. <h4>Visualização de alguns gráficos que criamos com os resultados das consultas:</h4>
 
-      -
-      -
-      -
-      
+     1. ![1](https://user-images.githubusercontent.com/102497100/176644698-20090ebc-7e42-49a3-93e2-e12604e331d6.png)
+     2. ![2](https://user-images.githubusercontent.com/102497100/176644791-23266360-da06-4c22-95d6-c2327ab1780d.png)
+     3. ![3](https://user-images.githubusercontent.com/102497100/176644842-a0cde882-8220-4b6c-ab69-d624890895e0.png)
+     4. ![4](https://user-images.githubusercontent.com/102497100/176644879-745a95b9-f313-48e9-8be4-b7bc726046c7.png)
+     5. ![5](https://user-images.githubusercontent.com/102497100/176644928-18345c23-4204-4cad-bc4f-695727b6995f.png)
+     6. ![6](https://user-images.githubusercontent.com/102497100/176644961-a3ac7f14-379e-4a0e-af1a-dbf1bd4b8161.png)
+    
+   
   4. <h4>Imagens salvas de algumas reuniões que tivemos durante todo o processo do projeto:</h4>
   ![image](https://user-images.githubusercontent.com/100171322/176546239-e11c632c-96fa-4258-bc44-123864929ae4.png)
   
