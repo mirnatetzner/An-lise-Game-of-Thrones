@@ -44,8 +44,8 @@ Devido a termos alguns horários disponíveis em comum, e também por conta das 
       10. [x] Todos os integrantes criando _branches_ e fazendo um _fork_ do projeto.
       11. [x] Subindo todas as querys prontas para o **GitHub**.
       12. [x] Com a maior parte do projeto praticamente concluída, criamos esse _Read.Me_.
-      13. [ ] Criação e ensaios da apresentação.
-      14. [ ] Correções e revisões finais em todo o projeto.
+      13. [x] Criação e ensaios da apresentação.
+      14. [x] Correções e revisões finais em todo o projeto.
 
   2. <h4>Programas, sites, plataformas e demais ferramentas utilizadas:</h4>
 
