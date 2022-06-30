@@ -19,7 +19,7 @@ Mas antes de descrever o desfecho desse projeto, acredito que devem conhecer o *
 
 ## 📊SOBRE O PROJETO:
 
-Uma idéia que surgiu de maneira espontânea e logo foi acolhida por todos. O conceito de **fã** - _pessoa que tem grande afeição ou demonstra grande interesse por (alguém ou algo_ - nos faz refletir em como é visto e praticado hoje em dia, alguém que se diz ser verdadeiramente fã de uma banda, filme ou série, ela **realmente** é fã, quando coloco o _"realmente"_ em ênfase, é para enfatizar que essa pessoa sabe TUDO mesmo do que diz ser verdadeiramente fã. Vai além de saber todas as músicas ou assistir toda a série e ler os livros. Um verdadeiro fã, conhece bem também da parte técnica que envolveu toda a construção dela. Sabe dizer quando aquele ator especifico deixou a série ou é o diretor da temporarada atual. E é exatamente nesse contexto que trabalhamos na criação desse projeto.
+Uma idéia que surgiu de maneira espontânea e logo foi acolhida por todos. O conceito de **fã** - _pessoa que tem grande afeição ou demonstra grande interesse por (alguém ou algo_ - nos faz refletir em como é visto e praticado hoje em dia, alguém que se diz ser verdadeiramente fã de uma banda, filme ou série, ela **realmente** é fã, quando coloco o _"realmente"_ em ênfase, é para enfatizar que essa pessoa sabe TUDO mesmo! Vai além de saber todas as músicas ou assistir toda a série e ler os livros. Um verdadeiro fã, conhece também da parte técnica que envolveu toda a construção dela. Sabe dizer quando aquele ator especifico deixou a série ou qual é o diretor da temporarada atual. E é exatamente nesse contexto que trabalhamos na criação desse projeto, fazendo um _"Quiz"_.
 
 ## SOFT SKILLS and TECH 📝
 
@@ -70,6 +70,8 @@ Devido a termos alguns horários disponíveis em comum, e também por conta das 
      4. ![4](https://user-images.githubusercontent.com/102497100/176644879-745a95b9-f313-48e9-8be4-b7bc726046c7.png)
      5. ![5](https://user-images.githubusercontent.com/102497100/176644928-18345c23-4204-4cad-bc4f-695727b6995f.png)
      6. ![6](https://user-images.githubusercontent.com/102497100/176644961-a3ac7f14-379e-4a0e-af1a-dbf1bd4b8161.png)
+     7. ![7](https://user-images.githubusercontent.com/100171322/176741424-47204c89-9ff1-49a1-ad58-486430226ab0.png)
+
     
    
   4. <h4>Imagens salvas de algumas reuniões que tivemos durante todo o processo do projeto:</h4>
