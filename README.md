@@ -64,13 +64,14 @@ Devido a termos alguns horários disponíveis em comum, e também por conta das 
 
   3. <h4>Visualização de alguns gráficos que criamos com os resultados das consultas:</h4>
 
-     1. ![1](https://user-images.githubusercontent.com/102497100/176644698-20090ebc-7e42-49a3-93e2-e12604e331d6.png)
-     2. ![2](https://user-images.githubusercontent.com/102497100/176644791-23266360-da06-4c22-95d6-c2327ab1780d.png)
-     3. ![3](https://user-images.githubusercontent.com/102497100/176644842-a0cde882-8220-4b6c-ab69-d624890895e0.png)
-     4. ![4](https://user-images.githubusercontent.com/102497100/176644879-745a95b9-f313-48e9-8be4-b7bc726046c7.png)
-     5. ![5](https://user-images.githubusercontent.com/102497100/176644928-18345c23-4204-4cad-bc4f-695727b6995f.png)
-     6. ![6](https://user-images.githubusercontent.com/102497100/176644961-a3ac7f14-379e-4a0e-af1a-dbf1bd4b8161.png)
-     7. ![7](https://user-images.githubusercontent.com/100171322/176741424-47204c89-9ff1-49a1-ad58-486430226ab0.png)
+     1. ![1](https://user-images.githubusercontent.com/100171322/176974688-ba4804d6-99ae-4b7c-bac1-1519055e5ecc.png)
+     2. ![2](https://user-images.githubusercontent.com/100171322/176974860-b316f539-38ee-4178-97b0-028c47701342.png)
+     3. ![3](https://user-images.githubusercontent.com/100171322/176974934-60e3682a-2136-43a0-a20f-9a7ef0c4527e.png)
+     4. ![4](https://user-images.githubusercontent.com/100171322/176975000-776064a2-c57c-49ef-8048-b1c9988e3e0a.png)
+     5. ![5](https://user-images.githubusercontent.com/100171322/176975086-acaf2fc4-16b6-4331-88a2-de873e308ffa.png)
+     6. ![6](https://user-images.githubusercontent.com/100171322/176975145-15eebfad-4e2a-4b4b-9eac-6959ad54c33b.png)
+     7. ![7](https://user-images.githubusercontent.com/100171322/176975219-69a46876-9d29-4090-bbf5-2aef5e796207.png)
+
 
     
    
